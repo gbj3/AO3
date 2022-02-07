@@ -13,14 +13,16 @@
 11. Then when you decide to commit the change, click the merge code button and confirm it
 12. You have now used, webstorm, git, and github.
 
-**Branch**-an edited version of the original code
-**Clone**- a downloaded version of all repository data until that point
-**Commit**- to create a change to the main branch of code
-**Fetch**- to retrieve from another place
-**GIT**-  system that lets you keep track of your code
-**Github**-allows you to change software from repositories
-**Merge**- When you combine the main branch of code with an edited branch
-**Merge Conflict**- When the main branch and edited branch have competing commits
-**Pull**-grabs changes from the GitHub repository and merges them into your local repository
-**Remote**- on your local machine
-**Repository**- on Githubs web-based servers
+
+* **Branch**-an edited version of the original code
+* **Clone**- a downloaded version of all repository data until that point
+* **Commit**- to create a change to the main branch of code
+* **Fetch**- to retrieve from another place
+* **GIT**-  system that lets you keep track of your code
+* **Github**-allows you to change software from repositories
+* **Merge**- When you combine the main branch of code with an edited branch
+* **Merge Conflict**- When the main branch and edited branch have competing commits
+* **Pull**-grabs changes from the GitHub repository and merges them into your local repository
+* **Remote**- on your local machine
+* **Repository**- on Githubs web-based servers
+
