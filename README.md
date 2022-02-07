@@ -10,3 +10,5 @@
 8. Now since thats done, you can make pull requests to make new branches of the documents
 9. These branches will act as code that you can commit once you are sure you want to finalize the change
 10. Do this by hitting "Create a new branch for this commit and start a pull request.", naming it what you want, and proposing the change
+Then when you decide to commit the change, click the merge code button and confirm it
+You have now used, webstorm, git, and github.
