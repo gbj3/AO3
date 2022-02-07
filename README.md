@@ -6,4 +6,7 @@
 4. Choose the type of file you want to create and make your code!
 5. Now that you have your code, create a github account here: https://github.com/ 
 6. Then go to the top right and click the plus, creating a new repository
-7. Name it whatever you want
+7. Name it whatever you want and you just made a Git
+8. Now since thats done, you can make pull requests to make new branches of the documents
+9. These branches will act as code that you can commit once you are sure you want to finalize the change
+10. Do this by hitting "Create a new branch for this commit and start a pull request.", naming it what you want, and proposing the change
